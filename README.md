@@ -4,7 +4,7 @@
 - 🌱 Estudando Python
 - 😄 Estou interessado em colaborar e aprender.
 
-- ### Hello! I'm Thiago Lopes 👋
+ ### Hello! I'm Thiago Lopes 👋
 
 - 🔭 I am currently learning HTML, CSS, JavaScript, VueJs, React and Python
 - 🌱 Studying Python
