@@ -1,8 +1,15 @@
 ### Olá! Eu sou o Thiago Lopes 👋
 
-- 🔭 Hoje fazendo freelance com front-end
+- 🔭 Atualmente estou aprendendo HTML, CSS, JavaScript, VueJs, React e Python
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- 😄 Estou interessado em colaborar e aprender.
+
+- ### Hello! I'm Thiago Lopes 👋
+
+- 🔭 I am currently learning HTML, CSS, JavaScript, VueJs, React and Python
+- 🌱 Studying Python
+- 😄 I am interested in collaborating and learning.
+
 
 <div>
   <a href="https://beacons.ai/Thiagolopesm">
